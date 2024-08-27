@@ -1,0 +1,14 @@
+Ask the user to enter Number1
+Ask the user to enter Number2
+Ask the user to enter the variables "+,-,*,%,/"
+If the operator is "+" 
+then compute results "number1 + number2"
+If the operators if -
+then compute results "number1 - number2"
+If the operator is *
+then compute results "number1 * number2"
+If the operator is /
+then compute results "number1 / number2"
+If the operator is %
+then compute results "number1 % number2"
+Print the results to the user

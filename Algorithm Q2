@@ -1,0 +1,29 @@
+Ask the user to enter a number representing a month
+Set  the variable "month_number"
+
+If the month_number is "1"
+then enter "month_name" as "january"
+If the month_number is "2"
+then enter "month_name" as "february"
+If the month_number is 3
+then enter "month_name" as "march"
+If the month_number is 4
+then enter the month_name as "april"
+If the month_number is 5
+then enter "month_name" as "may"
+If the month_number is 6
+then enter "month_name" as "june"
+If the month_number is 7
+then enter "month_name" as "july"
+If the month_number is 8
+then enter "month_name" as "august"
+If the month_number is 9
+then enter "month_name" as "september"
+If the month_number is 10
+then enter "month_name" as "october"
+If the month_number is 11
+then enter "month_name" as "november"
+If the month_number is 12
+then enter "month_name" as "december"
+
+PRINT the "month_name"

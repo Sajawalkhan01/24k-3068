@@ -1,0 +1,9 @@
+Ask te user to enter the number n
+Ask the user to enter number N
+Divide the Number N by Number n
+If the remainder is 0, THEN
+the number N is divisor of number n
+ELSE the number N is not a divisor of number n
+IF the number N id divisible by 2, THEN
+the number N is EVEN
+ELSE the number N is ODD
